@@ -13,6 +13,7 @@ from models.review import Review
 from models.state import State
 from models.city import City
 
+
 class HBNBCommand(cmd.Cmd):
 
     """The class contains the entry point of the command
